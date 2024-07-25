@@ -1,4 +1,6 @@
-## Eu sou o Fabrício Dias, Desenvolvedor Back-End
+## Opa!! Eu sou Fabrício Dias, Desenvolvedor Back-End... quase fullstack
+- Atualmente eu estou focado em me especializar na Linguagem Java e seu Framework Spring
+- Eu também pretendo aprofundar meu conhecimento em Angular para complementar meu conjunto de ferramentas de desenvolvimento 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
